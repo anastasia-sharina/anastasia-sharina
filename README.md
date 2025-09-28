@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pi7_GIF_CMP](https://github.com/user-attachments/assets/10bfebeb-324a-413e-85ed-cef70222e25a)
+![Pi7_GIF_CM](https://github.com/user-attachments/assets/6550b96a-16d6-46fd-a2a3-c7833bd5f62c)
 
 </div>
 
