@@ -1,6 +1,6 @@
 <div align="center">
 
-![_](https://github.com/user-attachments/assets/e3021b4d-aa42-46a8-a2ac-0a3d3296d0ce)
+![_](https://github.com/user-attachments/assets/c4d40734-2f77-4d5d-9428-5adae9cd08dd)
 
 </div>
 
