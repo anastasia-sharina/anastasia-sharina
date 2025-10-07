@@ -1,22 +1,28 @@
-<div align="center">
+### 🇬🇧 [English](#-english) | 🇷🇺 [Русский](#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
 
-![Pi7_GIF_CM](https://github.com/user-attachments/assets/6550b96a-16d6-46fd-a2a3-c7833bd5f62c)
+<a name="-english"></a>
+<h1 align="center"> <span align="left">🇬🇧</span> Hello! I'm Anastasia Sharina </h1>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvOWQzazZyMmoxdTM5N3BydnlieGZmNGV5am83OXN6azcyeDlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="400">
 
-</div>
 
-## 🌍 Languages / Языки
-- 🇬🇧 [English](#english)
-- 🇷🇺 [Русский](#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
+
+###
+I'm a **Machine Learning Engineer** with an extensive background in **product analytics** and **product management**.  
+*My goal — to connect ML and business to create innovations that work.*
+
+My contacts:
+* 📞 +7(985)243-55-92
+* 📲 [Telegram](https://t.me/ana_stelline)
+* 💻 [LinkedIn](https://www.linkedin.com/in/anastasiasharina/)
+* ✉ [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) 
 
 ---
+### 🛠 Skills
 
-## English
+- **ML skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`.
+- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`.
 
-### 🚀 About Me
-Hello, my name is Anastasia Sharina 👋  
-I am a **Machine Learning Engineer** with an extensive background in **product analytics** 📊 and **product management** 📈.  
-✨ *My goal — to connect ML and business to create innovations that work.*
-
+---
 ### 📌 Projects
 
 | Project | Description | Tech stack/Techniques |
@@ -27,34 +33,29 @@ I am a **Machine Learning Engineer** with an extensive background in **product a
 | [Project 4: Nashville Housing Project](https://github.com/anastasia-sharina/projects/tree/main/projects_en/Analytics_Projects_en/1_Nashville_Housing_Project_en) | This SQL project focuses on cleaning and transforming the Nashville Housing dataset to prepare it for analysis and visualization. Key data wrangling steps are performed using SQL queries to ensure consistency, improve data quality, and enable deeper insights. | Self-joins, String manipulation, Date conversion, CASE statements for data standardization, Window functions, ALTER TABLE |
 | [Project 5: COVID-19 Project](https://github.com/anastasia-sharina/projects/tree/main/projects_en/Analytics_Projects_en/2_COVID19_Project_en) | This project analyzes COVID-19 data using SQL to uncover insights about cases, deaths, and vaccinations globally and by country. The analysis is performed on two main datasets: CovidDeaths and CovidVaccinations from the database COVID19PortfolioProject. | Aggregate Functions, Window Functions, Joins, Grouping & Filtering, CTEs, Temp Tables & Views |
 
-### 🛠 Skills
-
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
-![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
-![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
-![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
-![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-007ACC?style=for-the-badge&logo=machine-learning)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=brain)
-![Statistics](https://img.shields.io/badge/-Statistics-FF5733?style=for-the-badge&logo=chart-bar)
-![A/B Testing](https://img.shields.io/badge/-A/B_Testing-00BFFF?style=for-the-badge&logo=split)
-![Tableau](https://img.shields.io/badge/-Tableau-FF6F00?style=for-the-badge&logo=Tableau)
-![Communication](https://img.shields.io/badge/-Communication-4CAF50?style=for-the-badge&logo=comment)
-![Teamwork](https://img.shields.io/badge/-Teamwork-FF9800?style=for-the-badge&logo=people)
-![Systems Thinking](https://img.shields.io/badge/-Systems_Thinking-795548?style=for-the-badge&logo=gear)
-![Product Management](https://img.shields.io/badge/-Product_Management-9C27B0?style=for-the-badge&logo=producthunt)
-
 ---
 
-## Русский
+<a name="-русский"></a>
+<h1 align="center"> <span align="left">🇷🇺</span> Привет! Я Анастасия Шарина </h1>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvOWQzazZyMmoxdTM5N3BydnlieGZmNGV5am83OXN6azcyeDlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="400">
 
-### 🚀 Обо мне
-Привет, меня зовут Анастасия Шарина 👋  
-Я **инженер по машинному обучению** с обширным опытом в **продуктовой аналитике** 📊 и **управлении продуктами** 📈.  
-✨ *Моя цель — соединять машинное обучение и бизнес, создавая инновации, которые приносят результаты.*
+###
+Я **инженер по машинному обучению** с обширным опытом в **продуктовой аналитике** и **управлении продуктами**.  
+*Моя цель — соединять машинное обучение и бизнес, создавая инновации, которые приносят результаты.*
 
+Мои контакты:
+* 📞 +7(985)243-55-92  
+* 📲 [Telegram](https://t.me/ana_stelline)  
+* 💻 [LinkedIn](https://www.linkedin.com/in/anastasiasharina/)  
+* ✉ [sharina.anastasia@gmail.com](mailto:sharina.anastasia@gmail.com)
+
+---
+### 🛠 Навыки
+
+- **ML-навыки**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`.  
+- **Технологии**: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Линейная/Логистическая регрессия`, `SVM`, `Деревья решений`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`.
+
+---
 ### 📌 Проекты
 
 | Проект | Описание | Стек/Техники |
@@ -64,22 +65,3 @@ I am a **Machine Learning Engineer** with an extensive background in **product a
 | Проект 3: A/B тестирование для 2 моделей | В процессе | — |
 | [Проект 4: Nashville Housing проект](https://github.com/anastasia-sharina/projects/tree/main/projects_ru/Analytics_Projects_ru/1_Nashville_Housing_Project_ru) | Этот проект посвящён очистке и трансформации набора данных Nashville Housing для подготовки его к анализу и визуализации. Ключевые этапы обработки данных выполняются с помощью SQL-запросов для обеспечения согласованности, повышения качества данных и получения более глубоких инсайтов. | Self-joins, String manipulation, Date conversion, CASE statements for data standardization, Window functions, ALTER TABLE |
 | [Проект 5: COVID-19 проект](https://github.com/anastasia-sharina/projects/tree/main/projects_ru/Analytics_Projects_ru/2_COVID19_Project_ru) | Этот проект анализирует данные по COVID-19 с помощью SQL, чтобы выявить инсайты о случаях заболевания, смертях и вакцинациях как во всем мире, так и по странам. Анализ проводится на двух основных датасетах: CovidDeaths и CovidVaccinations из базы данных COVID19PortfolioProject. | Aggregate Functions, Window Functions, Joins, Grouping & Filtering, CTEs, Temp Tables & Views |
-
-### 🛠 Навыки
-
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
-![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
-![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
-![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
-![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-007ACC?style=for-the-badge&logo=machine-learning)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=brain)
-![Statistics](https://img.shields.io/badge/-Statistics-FF5733?style=for-the-badge&logo=chart-bar)
-![A/B Testing](https://img.shields.io/badge/-A/B_Testing-00BFFF?style=for-the-badge&logo=split)
-![Tableau](https://img.shields.io/badge/-Tableau-FF6F00?style=for-the-badge&logo=Tableau)
-![Communication](https://img.shields.io/badge/-Communication-4CAF50?style=for-the-badge&logo=comment)
-![Teamwork](https://img.shields.io/badge/-Teamwork-FF9800?style=for-the-badge&logo=people)
-![Systems Thinking](https://img.shields.io/badge/-Systems_Thinking-795548?style=for-the-badge&logo=gear)
-![Product Management](https://img.shields.io/badge/-Product_Management-9C27B0?style=for-the-badge&logo=producthunt)
