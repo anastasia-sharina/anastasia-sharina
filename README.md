@@ -17,7 +17,7 @@ My contacts:
 ### 🛠 Skills
 
 - **ML skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`.
-- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`.
+- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `pgvector`, `SentenceTransformers (E5-base-v2)`, `OpenAI API`, `Docker`, `asyncio`.
 
 ---
 ### 📌 Projects
@@ -48,7 +48,7 @@ My contacts:
 ### 🛠 Навыки
 
 - **ML-навыки**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`.  
-- **Технологии**: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Линейная/Логистическая регрессия`, `SVM`, `Деревья решений`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`.
+- **Технологии**: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Линейная/Логистическая регрессия`, `SVM`, `Деревья решений`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `pgvector`, `SentenceTransformers (E5-base-v2)`, `OpenAI API`, `Docker`, `asyncio`.
 
 ---
 ### 📌 Проекты
