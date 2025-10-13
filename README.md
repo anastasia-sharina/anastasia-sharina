@@ -12,7 +12,6 @@ In addition to developing classic machine learning models, I have experience wor
 
 My contacts:
 +7(985)243-55-92 | [Telegram](https://t.me/ana_stelline) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/) | [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) 
-<p>&nbsp;</p>
 
 ---
 ### 🛠 Skills
