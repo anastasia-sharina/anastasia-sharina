@@ -8,7 +8,7 @@
 ###
 **I'm a ML/AI Engineer** 
 
-In addition to developing classic machine learning models, I have experience working with recommendation systems, NLP, and RAG projects, turning data into production-ready ML solutions. Creating value through intelligent systems is what inspires me every day.
+In addition to developing classic machine learning models, I have experience working with recommendation systems, NLP, and RAG projects, turning data into production-ready machine learning solutions. Creating value through intelligent systems is what inspires me every day.
 
 My contacts:
 +7(985)243-55-92 | [Telegram](https://t.me/ana_stelline) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/) | [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) 
