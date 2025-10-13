@@ -1,7 +1,6 @@
-### 🇬🇧 [English](#-english) | 🇷🇺 [Русский](#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
+### [🇬🇧 English](#English) | [🇷🇺 Русский](#Русский)
 
-<a name="-english"></a>
-<h1 align="center"> <span align="left">🇬🇧</span> Hello! I'm Anastasia Sharina </h1>
+<h1 id="English" align="center"> <span align="left">🇬🇧</span> Hello! I'm Anastasia Sharina </h1>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvOWQzazZyMmoxdTM5N3BydnlieGZmNGV5am83OXN6azcyeDlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="400">
 
 
@@ -33,8 +32,7 @@ My contacts:
 
 ---
 
-<a name="-русский"></a>
-<h1 align="center"> <span align="left">🇷🇺</span> Привет! Я Анастасия Шарина </h1>
+<h1 id="Русский" align="center"> <span align="left">🇷🇺</span> Привет! Я Анастасия Шарина </h1>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvOWQzazZyMmoxdTM5N3BydnlieGZmNGV5am83OXN6azcyeDlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="400">
 
 ###
