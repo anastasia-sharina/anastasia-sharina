@@ -13,6 +13,7 @@ In addition to developing classic ML models, I have experience working with reco
 My contacts:
 +7(985)243-55-92 | [Telegram](https://t.me/ana_stelline) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/) | [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) 
 
+<br>
 
 ---
 ### 🛠 Skills
