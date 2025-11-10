@@ -6,7 +6,7 @@
 
 
 ###
-**I'm a ML/AI Product Analyst** 
+**I'm a Product Analyst (AI/ML)** 
 
 with 4+ years of working experience in industries like banking and digital agency delivering profitable results. I'm actively developing Machine learning skills to apply in my Analytics, such as deeper user segmentation and optimization of content personalization. In addition to developing classic machine learning models, I have experience developing recommendation systems turning data into production-ready solutions. Creating measurable business impact through analytics and machine learning is what inspires me every day.
 
@@ -36,7 +36,7 @@ My contacts:
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvOWQzazZyMmoxdTM5N3BydnlieGZmNGV5am83OXN6azcyeDlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="400">
 
 ###
-**Я продуктовый аналитик ML/AI**
+**Я продуктовый аналитик (AI/ML)**
 
 Активно развиваю навыки в области машинного обучения для применения в моей аналитике — например, для более глубокой сегментации пользователей и оптимизации персонализации контента. Помимо разработки классических моделей машинного обучения, у меня есть опыт создания рекомендательных систем и превращения данных в ML-решения готовые к продакшену. Меня вдохновляет возможность применять аналитику и машинное обучение для достижения измеримых бизнес-результатов.
 
