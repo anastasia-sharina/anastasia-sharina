@@ -11,7 +11,7 @@
 with 4+ years of working experience in industries like banking and digital agency delivering profitable results. I'm actively developing Machine learning skills to apply in my Analytics, such as deeper user segmentation and optimization of content personalization. In addition to developing classic machine learning models, I have experience developing recommendation systems turning data into production-ready solutions. Creating measurable business impact through analytics and machine learning is what inspires me every day.
 
 My contacts:
-+7(985)243-55-92 | [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) | [Telegram](https://t.me/ana_stelline) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/)
+[sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/) | [Telegram](https://t.me/ana_stelline)
 
 ---
 ### 🛠 Skills
@@ -42,7 +42,7 @@ My contacts:
 
 
 Мои контакты:
-+7(985)243-55-92 | [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) | [Telegram](https://t.me/ana_stelline) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/)
+[sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/) | [Telegram](https://t.me/ana_stelline)
 
 ---
 ### 🛠 Навыки
