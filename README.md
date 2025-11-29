@@ -6,9 +6,9 @@
 
 
 ###
-**I'm a Product Analyst (AI/ML)** 
+**I'm a Product Analyst** 
 
-with 4+ years of working experience in industries like banking and digital agency delivering profitable results. I'm actively developing Machine learning skills to apply in my Analytics, such as deeper user segmentation and optimization of content personalization. In addition to developing classic machine learning models, I have experience developing recommendation systems turning data into production-ready solutions. Creating measurable business impact through analytics and machine learning is what inspires me every day.
+with 4+ years of working experience in industries like banking and digital agency delivering profitable results. I'm actively developing Machine learning skills to apply in my Analytics, such as improvement of digital sales and optimization of customer journey. In addition to developing classic machine learning models, I have experience developing recommendation systems turning data into production-ready solutions. Creating measurable business impact through analytics and machine learning is what inspires me every day.
 
 My contacts:
 [sharina.anastasia@gmail.com](sharina.anastasia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anastasiasharina/) | [Telegram](https://t.me/ana_stelline)
@@ -36,9 +36,9 @@ My contacts:
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvOWQzazZyMmoxdTM5N3BydnlieGZmNGV5am83OXN6azcyeDlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="400">
 
 ###
-**Я продуктовый аналитик (AI/ML)**
+**Я продуктовый аналитик**
 
-Активно развиваю навыки в области машинного обучения для применения в моей аналитике — например, для более глубокой сегментации пользователей и оптимизации персонализации контента. Помимо разработки классических моделей машинного обучения, у меня есть опыт создания рекомендательных систем и превращения данных в ML-решения готовые к продакшену. Меня вдохновляет возможность применять аналитику и машинное обучение для достижения измеримых бизнес-результатов.
+Активно развиваю навыки в области машинного обучения для применения в моей аналитике — например, для анализа продаж и оптимизации пользовательского опыта. Помимо разработки классических моделей машинного обучения, у меня есть опыт создания рекомендательных систем и превращения данных в ML-решения готовые к продакшену. Меня вдохновляет возможность применять аналитику и машинное обучение для достижения измеримых бизнес-результатов.
 
 
 Мои контакты:
